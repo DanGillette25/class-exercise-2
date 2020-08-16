@@ -1,53 +1,53 @@
-ReadMe for Pinball 
+# ReadMe for Pinball 
 
     
 
 
-    # Table of Contents: 
+# Table of Contents: 
 
-    [Description](#description)
-    [License](#license)
-    [Installation](#installation)
-    [Usage](#usage)
-    [License](#license)
-    [Contribution](#contribution)
-    [Testing](#testing)
-    [Questions](#questions)
+[Description](#description)
+[License](#license)
+[Installation](#installation)
+[Usage](#usage)
+[License](#license)
+[Contribution](#contribution)
+[Testing](#testing)
+[Questions](#questions)
 
-    ![Search Screenshot](https://camo.githubusercontent.com/2b5c48821f22738887c98a07f95852b610fb555b/68747470733a2f2f696d672e736869656c64732e696f2f61706d2f6c2f61746f6d69632d64657369676e2d75692e7376673f)
+![Search Screenshot](https://camo.githubusercontent.com/2b5c48821f22738887c98a07f95852b610fb555b/68747470733a2f2f696d672e736869656c64732e696f2f61706d2f6c2f61746f6d69632d64657369676e2d75692e7376673f)
     
 
 
-    ## Description
+## Description
     
-    Play pinball
+Play pinball
 
-    ## License
+## License
     
     
 
-    ## Installation
+## Installation
     
-    comes with windows
+comes with windows
 
-    ## Usage
+## Usage
     
-    use it
+use it
 
-    ## License
+## License
 
-    ## Contribution 
+## Contribution 
     
-    contribute
+contribute
     
-    ## Testing
+## Testing
     
-    play it
+play it
     
-    ## Questions
+## Questions
 
-    For questions you may contact test@gmail.com.
+For questions you may contact test@gmail.com.
 
-    My GitHub Username is dgillette
+My GitHub Username is dgillette
     
     
