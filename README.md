@@ -1,6 +1,6 @@
-##ReadMe for ReadMe Generator 
+##ReadMe for Readme Auto Generator 
 
-  [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   # Table of Contents: 
 
@@ -17,25 +17,23 @@
 
   ## Description
     
-  Quickly and conveniently auto-generate readmes for the apps that you create
+  This app makes for an easy way to auto-generate readmes for the apps you create
 
   ## License
     
-  BSD 3
+  Apache 2.0
 
   ## Installation
     
-  You will need npm inquirer to run this app
+  You need to install npm inquirer for this app to work
 
   ## Usage
     
-  Run index.js in your terminal
-
-  ## License
+  Simply run index.js from your terminal and answer the prompts.
 
   ## Contribution 
     
-  Feel free to go to the repo and modify the code as you see fit
+  Feel free to check out the repo and make whatever changes you'd like.
     
   ## Testing
     
