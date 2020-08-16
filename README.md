@@ -1,7 +1,6 @@
-##ReadMe for q 
+##ReadMe for ReadMe Gen 
 
-    
-
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   # Table of Contents: 
 
@@ -18,7 +17,7 @@
 
   ## Description
     
-  w
+  Generate ReadMe's
 
   ## License
     
@@ -26,26 +25,26 @@
 
   ## Installation
     
-  e
+  you need npm inquirer
 
   ## Usage
     
-  r
+  follow the prompts
 
   ## License
 
   ## Contribution 
     
-  t
+  github
     
   ## Testing
     
-  y
+  run the app
     
   ## Questions
 
-  For questions you may contact i.
+  For questions you may contact dan@dan.com.
 
-  My GitHub Username is u
+  My GitHub Username is danimal
     
   
