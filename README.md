@@ -1,6 +1,6 @@
-##ReadMe for ReadMe Gen 
+##ReadMe for ReadMe Generator 
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
   # Table of Contents: 
 
@@ -17,34 +17,34 @@
 
   ## Description
     
-  Generate ReadMe's
+  Quickly and conveniently auto-generate readmes for the apps that you create
 
   ## License
     
-  MIT
+  BSD 3
 
   ## Installation
     
-  you need npm inquirer
+  You will need npm inquirer to run this app
 
   ## Usage
     
-  follow the prompts
+  Run index.js in your terminal
 
   ## License
 
   ## Contribution 
     
-  github
+  Feel free to go to the repo and modify the code as you see fit
     
   ## Testing
     
-  run the app
+  Run the app in your terminal
     
   ## Questions
 
-  For questions you may contact dan@dan.com.
+  For questions you may email me at gillettedan@ymail.com.
 
-  My GitHub Username is danimal
+  GitHub Profile Link: https://github.com/DanGillette25
     
   
