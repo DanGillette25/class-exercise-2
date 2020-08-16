@@ -1,11 +1,11 @@
-ReadMe for ReadMe Generator 
+ReadMe for Pinball 
 
     
 
 
-    Table of Contents: 
+    # Table of Contents: 
 
-    [Description](#Description)
+    [Description](#description)
     [License](#license)
     [Installation](#installation)
     [Usage](#usage)
@@ -13,37 +13,41 @@ ReadMe for ReadMe Generator
     [Contribution](#contribution)
     [Testing](#testing)
     [Questions](#questions)
+
+    ![Search Screenshot](https://camo.githubusercontent.com/2b5c48821f22738887c98a07f95852b610fb555b/68747470733a2f2f696d672e736869656c64732e696f2f61706d2f6c2f61746f6d69632d64657369676e2d75692e7376673f)
     
 
 
-    ## Description 
+    ## Description
     
-    It auto-generates ReadMe
+    Play pinball
 
-    ## License: 
+    ## License
     
-    Apache 2.0
+    
 
-    ## Installation 
+    ## Installation
     
-    This app requires npm inquirer
+    comes with windows
 
-    ## Usage 
+    ## Usage
     
-    Follow the prompts and it will auto-generate your readme
+    use it
 
     ## License
 
     ## Contribution 
     
-    Feel free to access the GitHub repo and modify this app however you'd like
+    contribute
     
-    ## Testing 
+    ## Testing
     
-    If you run into any bugs let me know
+    play it
     
-    ##Questions
+    ## Questions
 
-    For questions you may contact gillettedan@ymail.com.
+    For questions you may contact test@gmail.com.
 
-    My GitHub Username is DanGillette25
+    My GitHub Username is dgillette
+    
+    
